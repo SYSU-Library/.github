@@ -1,12 +1,23 @@
-## Hi there 👋
+<img src="./image/line-neon.gif" width=100%><br><br>
 
-<!--
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><b>📕SYSU-Library📕</b></h1></summary>
+  </ul>
+</div>
 
-**Here are some ideas to get you started:**
+<img src="./image/line-neon.gif" width=100%><br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center"> 
+<img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple"
+alt="github follow"/>
+</p>
+
+<p align="center"> 
+    <a href="https://github.com/SYSU-Library"><img src="./image/SYSU.png" height=50pt alt="lulietlyan" /></a>
+    <a href="https://github.com/SYSU-Library"><img src="./image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
+</p>
+
+
+
+<img src="./image/line-neon.gif" width=100%><br><br>
