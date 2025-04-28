@@ -14,7 +14,7 @@ alt="github follow"/>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/SYSU-Library"><img src="./image/SYSU.png" height=50pt alt="lulietlyan" /></a>
+    <a href="https://github.com/SYSU-Library"><img src="./image/SYSU.svg" height=50pt alt="lulietlyan" /></a>
     <a href="https://github.com/SYSU-Library"><img src="./image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
 </p>
 
