@@ -9,10 +9,12 @@
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple"
   alt="github follow"/>
-  <img src="https://img.shields.io/badge/Contribution-Welcome-%23028745?style=for-the-badge&labelColor=%23b08f42"
-  alt="contribution"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-%23028745?style=for-the-badge&labelColor=%23b08f42"
+  alt="contributions"/>
   <img src="https://img.shields.io/badge/Star-IfYouLike-%23067897?style=for-the-badge&labelColor=%23879078"
   alt="star"/>
+  <img src="https://img.shields.io/badge/I❤-SYSU-%23006745?style=for-the-badge&labelColor=%23a40845"
+  alt="SYSU"/>
 </p>
 
 <p align="center"> 
